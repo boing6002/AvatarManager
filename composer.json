@@ -20,7 +20,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravolt/avatar": "2.0.*"
+        "laravolt/avatar": "2.0.*",
         "boing6002/imagetransformer": "dev-master"
     },
     "autoload": {
