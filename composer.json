@@ -1,5 +1,5 @@
 {
-    "name": "laravel-enso/avatarmanager",
+    "name": "boing6002/avatarmanager",
     "description": "User Avatar manager dependency for Laravel Enso",
     "keywords": [
         "laravel-enso",
@@ -20,11 +20,8 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "laravolt/avatar": "2.0.*",
-        "laravel-enso/core": "3.6.*",
-        "laravel-enso/filemanager": "2.5.*",
-        "laravel-enso/structuremanager": "2.5.*",
-        "laravel-enso/imagetransformer": "1.4.*"
+        "laravolt/avatar": "2.0.*"
+        "boing6002/imagetransformer": "dev-master"
     },
     "autoload": {
         "psr-4": {
